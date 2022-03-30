@@ -4,9 +4,9 @@ The slides can be found at https://www.zewailcity.edu.eg/main/content.php?lang=e
 First+ Second parts https://www.zewailcity.edu.eg/media-library/PDFs/Dr._Ahmed_Hammad_Part_1&2.pdf \
 Third part: https://www.zewailcity.edu.eg/media-library/PDFs/ml_zewail-_3.pdf \
 \
-<font color="blue"> Animation in the Gradient descent  noteebook:</font>
 
-These are <b style='color:red'>red words</b>
+
+<b style='color:red'>Animation in the Gradient descent  noteebook:</b>
 
 
 
