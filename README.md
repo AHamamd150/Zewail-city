@@ -10,10 +10,10 @@ Animation in the noteebooks:
 
 
 
-https://user-images.githubusercontent.com/68282212/160754236-d69c87a1-fdf7-4403-8e0d-71783d8a06b3.mp4
+https://user-images.githubusercontent.com/68282212/160754236-d69c87a1-fdf7-4403-8e0d-71783d8a06b3.mp4 https://user-images.githubusercontent.com/68282212/160761864-78972194-d598-4ead-bebf-97e28fe1143e.mp4
 
 
 
 
-https://user-images.githubusercontent.com/68282212/160761864-78972194-d598-4ead-bebf-97e28fe1143e.mp4
+
 
