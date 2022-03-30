@@ -6,7 +6,7 @@ Third part: https://www.zewailcity.edu.eg/media-library/PDFs/ml_zewail-_3.pdf \
 \
 <font color="blue"> Animation in the Gradient descent  noteebook:</font>
 
-
+These are <b style='color:red'>red words</b>
 
 
 
