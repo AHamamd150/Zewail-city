@@ -19,7 +19,7 @@ Third part: https://www.zewailcity.edu.eg/media-library/PDFs/ml_zewail-_3.pdf
 
 
 ## <b style='color:red'>Animation in the Gradient descent  noteebook:</b>
-
+It shows the effect of the learning rate on the convergence to the global minimum.
 
 
 
