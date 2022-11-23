@@ -8,6 +8,7 @@ First+ Second parts https://www.zewailcity.edu.eg/media-library/PDFs/Dr._Ahmed_H
 Third part: https://www.zewailcity.edu.eg/media-library/PDFs/ml_zewail-_3.pdf 
 
 ## Notebooks describtions
+* `QML_DNN_Angle_Amplitude_Embedding.ipynb` Fully connected quantum machine learning model with angle and amplitude embedding.
 * `Gradiant_decent.ipynb` Introduction to the gradient descent method. Linear regression example usign shallow NN model.
 * `Custom_DNN.ipynb` Creating our own non linear functions, cost functions, layers and DNN model. Comaper the constructed model gives accuracy of $92$ % for Minst data classification problem.
 * `DNN_MNIST_digits.ipynb` End-to-end analysis for MNIST data using fully conected ML model.
